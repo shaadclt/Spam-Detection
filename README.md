@@ -1,4 +1,4 @@
-# Spam Detection
+# Spam Detection 
 
 ## Overview
 This project is a simple spam classifier that uses the Multinomial Naive Bayes algorithm to classify messages as either spam or not spam (ham). It also provides some data visualizations and metrics to evaluate the classifier's performance.
